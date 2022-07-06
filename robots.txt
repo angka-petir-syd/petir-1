@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://angka-petir-syd.github.io/petir-1/sitemap.xml
